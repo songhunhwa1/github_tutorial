@@ -7,3 +7,5 @@ def _check_if_numeric(value):
         return True
     except (TypeError, ValueError):
         return False
+
+## 추가코드        
